@@ -119,4 +119,7 @@ def adding_to_dennis
      }
 programmer_hash[:dennis_ritchie][:known_for] = "Object Orientation", "Assembly"
 # programmer_hash[:alan_kay][:known_for]="GUI"
+programmer_hash[:dennis_ritchie][:known_for]
+
+programmer_hash
 end
